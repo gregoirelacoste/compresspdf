@@ -18,3 +18,6 @@ Use terminal to compress PDF.
 Option : 
 1) /screen  low-resolution            3) /printer  Print Optimized setting  5) /default                           
 2) /ebook  medium-resolution          4) /prepress Prepress Optimized       6) - Fin -  
+
+Résultat sur 1 exemple : 
+De 263 470 804 à 28 568 934 avec le mode /ebook
